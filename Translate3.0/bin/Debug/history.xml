@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ArrayOfHistory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <To>Brawl Stars</To>
+    <From>Brawl Stars</From>
+  </History>
+  <History>
+    <To>Hello</To>
+    <From>Привет</From>
+  </History>
+  <History>
+    <To>Hello</To>
+    <From>Привет</From>
+  </History>
+  <History>
+    <To>Hello</To>
+    <From>Привет</From>
+  </History>
+  <History>
+    <To>Hello</To>
+    <From>Привет</From>
+  </History>
+  <History>
+    <To>How are you?</To>
+    <From>Как поживаешь?</From>
+  </History>
+  <History>
+    <To>How are you?</To>
+    <From>Как поживаешь?</From>
+  </History>
+  <History>
+    <To>Что делаешь?</To>
+    <From>What are you doing?</From>
+  </History>
+  <History>
+    <To>Привет</To>
+    <From>Hello</From>
+  </History>
+  <History>
+    <To>Как дела?</To>
+    <From>How are you?</From>
+  </History>
+  <History>
+    <To>Как дела?</To>
+    <From>How are you?</From>
+  </History>
+  <History>
+    <To>Привет, как дела?</To>
+    <From>Hi, how are you?</From>
+  </History>
+  <History>
+    <To>Привет, как дела?</To>
+    <From>Hi, how are you?</From>
+  </History>
+</ArrayOfHistory>
